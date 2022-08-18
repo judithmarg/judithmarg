@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @judithmarg
 - 👀 I’m interested in coding and programming
-- 🌱 I’m currently learning engineering
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning computer science
+- 💞️ I’m looking to collaborate on -.**-
 - 📫 How to reach me judithmargaritapacollalli@gmail.com
 
 <!---
